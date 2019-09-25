@@ -51,7 +51,7 @@ def get_binned_data(data,integration_time,max_time,min_time):
 
     return comp_df
 
-def bin_correlation_data(data1, data2, nrebin):
+def bin_correlation_data(data1, data2, rebin):
     # First we need to set the relevant time column as the index
     # We also need to make sure the values are datetime types
     # - when setting the unix time to datetime we must specificy that these
