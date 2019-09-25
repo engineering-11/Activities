@@ -86,5 +86,4 @@ def bin_correlation_data(data1, data2, nrebin):
         data1_binned = data1_binned.drop(data1_binned.index[indsnan[j]])
         data2_binned = data2_binned.drop(data2_binned.index[indsnan[j]])
         j = j-1
-    print(len(data1_binned),len(data2_binned))
     return data1_binned, data2_binned
