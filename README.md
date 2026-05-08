@@ -1,3 +1,5 @@
 # Activities
 
-Lab activities and homework assignments for Engineering 11 are maintained in this repository. This is also where students will turn in some practice work through the feature-branch workflow model and pull requests.
+Archive of past Engineering 11 in-class lab activity notebooks. Materials here are kept for historical reference and are no longer actively maintained. Current in-class materials for the course are not committed to this repository.
+
+For the active course site, syllabus, and weekly schedule, see [`Engin-11`](https://github.com/engineering-11/Engin-11). For homework templates and solutions, see [`Homework-templates`](https://github.com/engineering-11/Homework-templates).
